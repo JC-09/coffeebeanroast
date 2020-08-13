@@ -100,3 +100,25 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load-image{
+    width:15%;
+}
+
+#input-image{
+    width:61%;
+}
+
+#pointer-mode-div{
+    width : 24%;
+    align : center;
+}
+
+#title{
+    width:80%;
+}
+
+#title-buttons{
+    width:20%;
+    align:left;
+}
